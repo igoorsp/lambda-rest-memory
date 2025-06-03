@@ -1,7 +1,3 @@
-Claro! Aqui está um exemplo de `README.md` simples, limpo e direto para o seu projeto de Lambda Java (Quarkus, Native) integrando com o FakerAPI/Mocky, usando variáveis de ambiente e timeout configurável:
-
----
-
 ````markdown
 # Lambda Memory Integration Example
 
@@ -80,13 +76,3 @@ Você pode executar localmente usando o Quarkus Dev Mode:
 
 * O projeto está pronto para compilação nativa e uso em produção.
 * O uso de `@RegisterForReflection` garante funcionamento em native-image com serialização JSON.
-
----
-
-**Dúvidas ou sugestões?**
-Abra um issue ou envie um PR!
-
-```
-
-Se quiser, posso adaptar para um modelo mais corporativo ou adicionar instruções de teste unitário/mock!
-```
